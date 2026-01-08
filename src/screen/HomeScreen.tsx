@@ -8,6 +8,11 @@ const topic = [
         title: "FlatList Demo",
         screen: "FlatListDemo"
     },
+    {
+        id: '2',
+        title: "Featch API Demo",
+        screen: "FeatchDataDemo"
+    },
 ]
 
 
